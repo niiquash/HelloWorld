@@ -7,7 +7,7 @@ This program is simply a hello world program in python.
 I created this software to learn how to commit and push programs to github repositories.
 
 Here's is a link to my YouTube demo of the program:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/12aFuyU8Jv8)
 
 # Development Environment
 
